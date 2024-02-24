@@ -1,5 +1,12 @@
 # Simple File Transfer
 
+<p>
+  <img src="screenshots/1.png" alt="sp1"/>
+  <img src="screenshots/2.png" alt="sp2"/>
+  <img src="screenshots/3.png" alt="sp3"/>
+  <img src="screenshots/4.png" alt="sp4"/>
+</p>
+
 ## What is this app?
 This small application can send and receive files between Windows computers in a network.
 If you have knowledge about networking or your network has IPv6, you can even transfer over the internet (instructions below).
