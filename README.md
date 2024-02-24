@@ -1,11 +1,14 @@
 # Simple File Transfer
 
 <p>
-  <img src="screenshots/1.png" alt="sp1"/>
-  <img src="screenshots/2.png" alt="sp2"/>
-  <img src="screenshots/3.png" alt="sp3"/>
-  <img src="screenshots/4.png" alt="sp4"/>
+  <img src="screenshots/1.png" alt="sp1" width="50%"/>
+  <img src="screenshots/2.png" alt="sp2"  width="50%"/>
+  <img src="screenshots/3.png" alt="sp3"  width="50%"/>
+  <img src="screenshots/4.png" alt="sp4"  width="50%"/>
 </p>
+
+## Donwload
+[zip file](release/sft.zip)
 
 ## What is this app?
 This small application can send and receive files between Windows computers in a network.
@@ -13,6 +16,9 @@ If you have knowledge about networking or your network has IPv6, you can even tr
 
 ## Why this app exist?
 Just a small personal project while I was in the University, now I develop for fun.
+
+## Improtant Note
+This app has not been signed so you will/may encounter warning pop-up from Windows.
 
 ## Platform
 For Windows only, no plan for other platforms
