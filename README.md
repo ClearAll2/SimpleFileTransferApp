@@ -1,4 +1,4 @@
-# Simple File Transfer
+## What is this?
 This small application can send and receive files between Windows computers in a network.
 If you have knowledge about networking or your network has IPv6, you can even transfer over the internet (instructions below).
 
@@ -9,9 +9,6 @@ If you have knowledge about networking or your network has IPv6, you can even tr
   <img src="screenshots/3.png" alt="sp3"  width="75%"/>
   <img src="screenshots/4.png" alt="sp4"  width="75%"/>
 </p>
-
-## Download
-[Release zip file](release/sft.zip)
 
 ## Improtant Note
 This app has not been signed so you will/may encounter warning pop-up from Windows.
