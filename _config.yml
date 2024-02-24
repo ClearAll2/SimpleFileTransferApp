@@ -1,5 +1,8 @@
 name: Simple File Transfer
-title: null
+title: Simple File Transfer
+show_downloads: true
+github:
+  zip_url: https://clearall2.github.io/SimpleFileTransferApp/release/sft.zip
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
