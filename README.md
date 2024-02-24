@@ -1,10 +1,10 @@
 # Simple File Transfer
 
 <p>
-  <img src="screenshots/1.png" alt="sp1" width="50%"/>
-  <img src="screenshots/2.png" alt="sp2"  width="50%"/>
-  <img src="screenshots/3.png" alt="sp3"  width="50%"/>
-  <img src="screenshots/4.png" alt="sp4"  width="50%"/>
+  <img src="screenshots/1.png" alt="sp1" width="75%"/>
+  <img src="screenshots/2.png" alt="sp2"  width="75%"/>
+  <img src="screenshots/3.png" alt="sp3"  width="75%"/>
+  <img src="screenshots/4.png" alt="sp4"  width="75%"/>
 </p>
 
 ## Donwload
