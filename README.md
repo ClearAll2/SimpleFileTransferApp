@@ -40,6 +40,9 @@ Our suggestion for transfering files over the internet (if you don't have IPv6):
 - Join/create your own network, share with friends.
 - You can send/receive files now, using IP address from VPN.
 
+## Donate
+If you like my work and want to help, buy me a coffee at [PayPal](https://paypal.me/clearall2?country.x=VN&locale.x=en_US).
+
 ## Contact
 If you have any question, send me an email to lkonle@proton.me
 
