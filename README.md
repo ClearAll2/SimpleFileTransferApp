@@ -1,8 +1,6 @@
 # Simple File Transfer
 This small application can send and receive files between Windows computers in a network.
 If you have knowledge about networking or your network has IPv6, you can even transfer over the internet (instructions below).
-
-## Screenshots
 <p>
   <img src="screenshots/1.png" alt="sp1" width="75%"/>
   <img src="screenshots/2.png" alt="sp2"  width="75%"/>
@@ -14,7 +12,9 @@ If you have knowledge about networking or your network has IPv6, you can even tr
 This app has not been signed so you will/may encounter warning pop-up from Windows.
 
 ## Platform
-For Windows only, no plan for other platforms
+For Windows only, no plan for other platforms.
+- Windows XP (not tested)
+- Windows Vista (not tested)
 - Windows 7
 - Windows 8/8.1
 - Windows 10
@@ -28,6 +28,14 @@ For Windows only, no plan for other platforms
 - Support UPnP protocol.
 - Integrated Chat.
 - Local Peers.
+- Be updated automatically.
+
+## How to use?
+You can watch demo [here](https://drive.google.com/file/d/1zlNjszlQIognsloPBZ6rg7XqaXN8fDAC/view), a little bit old but still the same steps.
+
+
+## Changelog
+Read app [changelog](changelog.md)
 
 ## Privacy policy
 - This product does not collect, save, transmit key strokes when user types in.
@@ -44,6 +52,6 @@ Our suggestion for transfering files over the internet (if you don't have IPv6):
 If you like my work and want to help, buy me a coffee at [PayPal](https://paypal.me/clearall2?country.x=VN&locale.x=en_US).
 
 ## Contact
-If you have any question, send me an email to lkonle@proton.me
+If you have any question, send me an email to [lkonle@proton.me](mailto:lkonle@proton.me)
 
 
