@@ -1,4 +1,4 @@
-## What is this?
+# Simple File Transfer
 This small application can send and receive files between Windows computers in a network.
 If you have knowledge about networking or your network has IPv6, you can even transfer over the internet (instructions below).
 
