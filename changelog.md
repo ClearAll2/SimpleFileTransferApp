@@ -1,6 +1,9 @@
 # Changelog
 We’re always making changes and improvements to Simple File Transfer.
 
+## v4.5.1.0
+- Minor UI changes.
+ 
 ## v4.5.0.0 (Not compatible with old versions)
 - New app icon.
 - Integrated Local Peers into main windows.
