@@ -1,5 +1,10 @@
 # Changelog
-We’re always making changes and improvements to Simple File Transfer.
+We are always making changes and improvements to Simple File Transfer.
+
+## v4.5.2.0
+- Minor UI changes.
+- Transfer cancellation now requires confirmation.
+- Double-click on a peer will now automatically request connection (not already).
 
 ## v4.5.1.0
 - Minor UI changes.
