@@ -1,6 +1,9 @@
 # Changelog
 We are always making changes and improvements to Simple File Transfer.
 
+## v4.5.2.1
+- Drop support for high resolution screen due to horrible scale.
+
 ## v4.5.2.0
 - Minor UI changes.
 - Transfer cancellation now requires confirmation.
