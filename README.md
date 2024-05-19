@@ -9,14 +9,14 @@ If you have knowledge about networking or your network has IPv6, you can even tr
 </p>
 
 ## Improtant Note
-This app has not been signed so you will/may encounter warning pop-up from Windows.
+This app has not been signed so you will/may encounter warning pop-up from Windows. If you trust me, then nothing to worry, or don't use it. Thanks.
 
 ## Platform
 For Windows only, no plan for other platforms.
-- Windows XP (not tested)
-- Windows Vista (not tested)
+- Windows XP (not test yet)
+- Windows Vista (not test yet)
 - Windows 7
-- Windows 8/8.1
+- Windows 8/8.1 (not test yet)
 - Windows 10
 - Windows 11
 

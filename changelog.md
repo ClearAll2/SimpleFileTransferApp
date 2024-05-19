@@ -1,6 +1,10 @@
 # Changelog
 We are always making changes and improvements to Simple File Transfer.
 
+## v4.5.2.2
+- Files' size should now show their corresponding size (bytes, KB, MB, GB,...) instead of bytes only.
+- Minor UI changes in About page.
+
 ## v4.5.2.1
 - Drop support for high resolution screen due to horrible scale.
 
