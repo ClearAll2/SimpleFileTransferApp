@@ -1,6 +1,9 @@
 # Changelog
 We are always making changes and improvements to Simple File Transfer.
 
+## 4.5.3.0
+- New progress bar for file transfer (experimental).
+
 ## v4.5.2.2
 - Files' size should now show their corresponding size (bytes, KB, MB, GB,...) instead of bytes only.
 - Minor UI changes in About page.
