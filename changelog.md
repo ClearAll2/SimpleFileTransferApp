@@ -1,6 +1,10 @@
 # Changelog
 We are always making changes and improvements to Simple File Transfer.
 
+## 4.5.4.0
+- Add a new option not to save log files.
+- Minor UI changes.
+
 ## 4.5.3.0
 - New progress bar for file transfer (experimental).
 

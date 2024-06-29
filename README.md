@@ -1,6 +1,6 @@
 # Simple File Transfer
 This small application can send and receive files between Windows computers in a network.
-If you have knowledge about networking or your network has IPv6, you can even transfer over the internet (instructions below).
+If you have knowledge about network or your network has IPv6, you can even transfer over the internet (instructions below).
 <p>
   <img src="screenshots/1.png" alt="sp1" width="75%"/>
   <img src="screenshots/2.png" alt="sp2"  width="75%"/>
@@ -8,15 +8,15 @@ If you have knowledge about networking or your network has IPv6, you can even tr
   <img src="screenshots/4.png" alt="sp4"  width="75%"/>
 </p>
 
-## Improtant Note
+## Important Note
 This app has not been signed so you will/may encounter warning pop-up from Windows. If you trust me, then nothing to worry, or don't use it. Thanks.
 
 ## Platform
 For Windows only, no plan for other platforms.
-- Windows XP (not test yet)
-- Windows Vista (not test yet)
+- Windows XP (not tested yet)
+- Windows Vista (not tested yet)
 - Windows 7
-- Windows 8/8.1 (not test yet)
+- Windows 8/8.1 (not tested yet)
 - Windows 10
 - Windows 11
 
@@ -43,7 +43,7 @@ Read app [changelog](changelog.md)
 - This product does not share or transmit the data that user created by using this product.
 
 ## Internet transfer
-Our suggestion for transfering files over the internet (if you don't have IPv6):
+Our suggestion for transferring files over the internet (if you don't have IPv6):
 - Download and install free Radmin VPN at https://www.radmin-vpn.com
 - Join/create your own network, share with friends.
 - You can send/receive files now, using IP address from VPN.
