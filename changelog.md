@@ -1,6 +1,10 @@
 # Changelog
 We are always making changes and improvements to Simple File Transfer.
 
+## 4.5.4.1
+- Remove Chat function.
+- Updated related info.
+
 ## 4.5.4.0
 - Add a new option not to save log files.
 - Minor UI changes.

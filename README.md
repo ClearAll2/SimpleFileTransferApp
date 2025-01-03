@@ -13,10 +13,10 @@ This app has not been signed so you will/may encounter warning pop-up from Windo
 
 ## Platform
 For Windows only, no plan for other platforms.
-- Windows XP (not tested yet)
-- Windows Vista (not tested yet)
+- Windows XP (Not guaranteed)
+- Windows Vista (Not guaranteed)
 - Windows 7
-- Windows 8/8.1 (not tested yet)
+- Windows 8/8.1 (Not guaranteed)
 - Windows 10
 - Windows 11
 
@@ -26,9 +26,8 @@ For Windows only, no plan for other platforms.
 - Unlimited file size.
 - Support both IPv4 and IPv6.
 - Support UPnP protocol.
-- Integrated Chat.
-- Local Peers.
-- Be updated automatically.
+- Local Peers for faster connection.
+- Be updated automatically via SFT Updater.
 
 ## How to use?
 You can watch demo [here](https://drive.google.com/file/d/1zlNjszlQIognsloPBZ6rg7XqaXN8fDAC/view), a little bit old but still the same steps.
