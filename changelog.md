@@ -2,6 +2,9 @@
 
 We are always making changes and improvements to Simple File Transfer.
 
+## 4.5.5.1
+
+* Minor improvements.
 
 
 ## 4.5.5.0
