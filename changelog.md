@@ -2,6 +2,13 @@
 
 We are always making changes and improvements to Simple File Transfer.
 
+
+## 4.5.6.0
+
+* Fixed several misaligned components after restoring the app from a minimized state.
+* Fixed an unhandled error when invalid files were selected.
+* Various UI improvements.
+
 ## 4.5.5.1
 
 * Minor improvements.

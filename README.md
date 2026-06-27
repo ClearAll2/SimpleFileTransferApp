@@ -23,10 +23,10 @@ For Windows only, no plan for other platforms.
 ## Features
 - Send and receive multiple files.
 - Send and receive simultaneously.
-- Unlimited file size.
+- No limit file size.
 - Support both IPv4 and IPv6.
 - Support UPnP protocol.
-- Local Peers for faster connection.
+- Local Peers for faster finding.
 - Be updated automatically via SFT Updater.
 
 ## How to use?
