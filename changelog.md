@@ -2,6 +2,11 @@
 
 We are always making changes and improvements to Simple File Transfer.
 
+## 4.5.7.0
+
+* Upgraded transfer progress bar, now it shows speed and percentage.
+* Minor UI improvements.
+
 
 ## 4.5.6.0
 
