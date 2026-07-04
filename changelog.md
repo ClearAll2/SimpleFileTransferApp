@@ -5,7 +5,9 @@ We are always making changes and improvements to Simple File Transfer.
 ## 4.5.7.0
 
 * Upgraded transfer progress bar, now it shows speed and percentage.
+* A new option to open save folder automatically.
 * Minor UI improvements.
+
 
 
 ## 4.5.6.0
@@ -17,6 +19,7 @@ We are always making changes and improvements to Simple File Transfer.
 ## 4.5.5.1
 
 * Minor improvements.
+
 
 
 ## 4.5.5.0
@@ -116,3 +119,4 @@ We are always making changes and improvements to Simple File Transfer.
 ## v2.1.0.1
 
 * We fixed a bug that prevents sending file.
+
